@@ -1,2 +1,2 @@
 Hello World
-This is a git txt file.
+This is a git text file.
